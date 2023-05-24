@@ -31,28 +31,30 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujanbohora&show_icons=true&locale=en" alt="pujanbohora" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pujanbohora&" alt="pujanbohora" /></p>
+
 <p>
     📱 I have apps published on the Play Store! Check them out using the links below:
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.advance.notes.np">
-        <img src="[app1_logo.png](https://play-lh.googleusercontent.com/g9iQVrVOqRPD7mpimfAcMoHM2AzQsEVWt2GiFYM9qAu2EYMi8lKb3jlHFxL4yhxsF2g=w480-h960-rw)" alt="App 1 Logo" width="100" height="100">
+        <img src="https://play-lh.googleusercontent.com/g9iQVrVOqRPD7mpimfAcMoHM2AzQsEVWt2GiFYM9qAu2EYMi8lKb3jlHFxL4yhxsF2g=w480-h960-rw" alt="" width="100" height="100">
         Advance Note
     </a>
     <br>
     <a href="https://play.google.com/store/apps/details?id=np.mathgame.com">
-        <img src="[app2_logo.png](https://play-lh.googleusercontent.com/cz3PLsqIFd7xLFkmjgwpF50xIJSXoluwgdkyHU8uDBN9xX2vP8JwSWxEy3vFRDbeBw=w480-h960-rw)" alt="App 2 Logo" width="100" height="100">
+        <img src="https://play-lh.googleusercontent.com/cz3PLsqIFd7xLFkmjgwpF50xIJSXoluwgdkyHU8uDBN9xX2vP8JwSWxEy3vFRDbeBw=w480-h960-rw" alt="" width="100" height="100">
         Run Number
     </a>
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.story.social.np">
-        <img src="[app3_logo.png](https://play-lh.googleusercontent.com/55zbOUfDqSrIrn1i_8UG3mW0Nt-n6KuibC9_peSt9E08SbmhgZpQirw9OPGEjcmza3dG=w480-h960-rw)" alt="Story" width="100" height="100">
+        <img src="https://play-lh.googleusercontent.com/55zbOUfDqSrIrn1i_8UG3mW0Nt-n6KuibC9_peSt9E08SbmhgZpQirw9OPGEjcmza3dG=w480-h960-rw" alt="" width="100" height="100">
         Story
     </a>
 </p>
 
 <p>
-    👥 I have a public repository for all of my apps on account, and I welcome contributions from the community!
-    <br>
+    👥 I have a public repository for all of my apps on account, and I welcome contributions from the community!</p>
+    <p><br>
     You can find the repository at the following link:
     <br>
     <a href="(https://github.com/pujanbohora/advanced_note_app)">Advance Note App</a>
@@ -71,7 +73,4 @@
 <p>
     Thank you for your interest and support in enhancing these apps through collaborative efforts! Your contributions are truly appreciated.
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pujanbohora&" alt="pujanbohora" /></p>
 
