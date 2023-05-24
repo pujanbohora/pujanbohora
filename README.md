@@ -37,17 +37,17 @@
     📱 I have apps published on the Play Store! Check them out using the links below:
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.advance.notes.np">
-        <img src="https://play-lh.googleusercontent.com/g9iQVrVOqRPD7mpimfAcMoHM2AzQsEVWt2GiFYM9qAu2EYMi8lKb3jlHFxL4yhxsF2g=w480-h960-rw" alt="" width="100" height="100">
+        <img src="https://play-lh.googleusercontent.com/g9iQVrVOqRPD7mpimfAcMoHM2AzQsEVWt2GiFYM9qAu2EYMi8lKb3jlHFxL4yhxsF2g=w480-h960-rw" alt="" width="50" height="50">
         Advance Note
     </a>
     <br>
     <a href="https://play.google.com/store/apps/details?id=np.mathgame.com">
-        <img src="https://play-lh.googleusercontent.com/cz3PLsqIFd7xLFkmjgwpF50xIJSXoluwgdkyHU8uDBN9xX2vP8JwSWxEy3vFRDbeBw=w480-h960-rw" alt="" width="100" height="100">
+        <img src="https://play-lh.googleusercontent.com/cz3PLsqIFd7xLFkmjgwpF50xIJSXoluwgdkyHU8uDBN9xX2vP8JwSWxEy3vFRDbeBw=w480-h960-rw" alt="" width="50" height="50">
         Run Number
     </a>
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.story.social.np">
-        <img src="https://play-lh.googleusercontent.com/55zbOUfDqSrIrn1i_8UG3mW0Nt-n6KuibC9_peSt9E08SbmhgZpQirw9OPGEjcmza3dG=w480-h960-rw" alt="" width="100" height="100">
+        <img src="https://play-lh.googleusercontent.com/55zbOUfDqSrIrn1i_8UG3mW0Nt-n6KuibC9_peSt9E08SbmhgZpQirw9OPGEjcmza3dG=w480-h960-rw" alt="" width="50" height="50">
         Story
     </a>
 </p>
@@ -57,9 +57,7 @@
     <p><br>
     You can find the repository at the following link:
     <br>
-    <a href="(https://github.com/pujanbohora/advanced_note_app)">Advance Note App</a>
-      <a href="(https://github.com/pujanbohora/advanced_note_app)">Advance Note App</a>
-      <a href="(https://github.com/pujanbohora/advanced_note_app)">Advance Note App</a>
+    <a href="https://github.com/pujanbohora/advanced_note_app">Advance Note App</a>
 </p>
 
 <p>
