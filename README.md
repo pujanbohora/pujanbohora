@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujanbohora" alt="pujanbohora" /></a> </p>
 
-- 🔭 I’m currently working on **Digi Technology**
+- 🔭 I’m looking for an opportunity**
 
 - 🌱 I’m currently learning **Dart, Flutter, React Native**
 
